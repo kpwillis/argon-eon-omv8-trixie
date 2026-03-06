@@ -1,4 +1,4 @@
-# Argon EON NAS with OpenMediaVault 8 on Raspberry Pi OS Trixie
+# Argon EON Pi NAS with OpenMediaVault 8 on Raspberry Pi OS Trixie
 
 ## Overview
 This guide documents my experience running **OpenMediaVault 8** on
